@@ -25,7 +25,7 @@ body::-webkit-scrollbar {
 
 /* Header */
 .main {
-    background-image: url('assets/OIP 1.png');
+    background-image: url('OIP 1.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -310,7 +310,7 @@ img {
 
 /* Testimoni */
 .testimonials {
-    background: url('assets/OIP 2.png');
+    background: url('OIP 2.png');
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -373,7 +373,7 @@ img {
 
 /* Pricing */
 .pricing {
-    background: url('assets/main.jpeg') no-repeat center center/cover;
+    background: url('main.jpeg') no-repeat center center/cover;
     padding-left: 8rem;
     padding-right: 8rem;
     padding-bottom: 8rem;
@@ -446,7 +446,7 @@ img {
 
 /* About Section */
 .about {
-    background: url('assets/footer.png');
+    background: url('footer.png');
     background-size: cover;
     text-align: center;
     color: black;
